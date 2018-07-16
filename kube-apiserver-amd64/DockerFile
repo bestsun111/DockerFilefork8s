@@ -1,1 +1,2 @@
 From gcr.io/google_containers/kube-apiserver-amd64:v1.11.0
+MAINTAINER bestsun111 <tyr160@sina.com>
